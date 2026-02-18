@@ -1,0 +1,12 @@
+data.csv
+savings.csv
+*.csv.tmp
+*.csv.backup
+pycache/
+*.pyc
+*.pyo
+.venv/
+venv/
+.idea/
+.vscode/
+*.swp
